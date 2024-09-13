@@ -1,0 +1,56 @@
+{
+  "itemPools": [
+    {
+      "probability": 0.7,
+      "items": [
+        {
+          "itemType": "Emote",
+          "itemName": "Wave",
+          "amount": 0,
+          "animationName": "Wave"
+        },
+        {
+          "itemType": "Emote",
+          "itemName": "Dance",
+          "amount": 0,
+          "animationName": "Dance"
+        },
+        {
+          "itemType": "Coins",
+          "itemName": "",
+          "amount": 100,
+          "animationName": ""
+        },
+        {
+          "itemType": "Skin",
+          "itemName": "Pirate",
+          "amount": 0,
+          "animationName": ""
+        }
+      ]
+    },
+    {
+      "probability": 0.3,
+      "items": [
+        {
+          "itemType": "Emote",
+          "itemName": "Wave",
+          "amount": 0,
+          "animationName": "Wave"
+        },
+        {
+          "itemType": "Coins",
+          "itemName": "",
+          "amount": 500,
+          "animationName": ""
+        },
+        {
+          "itemType": "Skin",
+          "itemName": "Skater",
+          "amount": 0,
+          "animationName": ""
+        }
+      ]
+    }
+  ]
+}
